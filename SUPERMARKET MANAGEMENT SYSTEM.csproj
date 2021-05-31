@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B984EB87-3D58-400A-BE4C-A033F43C4CBB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SUPERMARKET_MANAGEMENT_SYSTEM</RootNamespace>
+    <AssemblyName>SUPERMARKET MANAGEMENT SYSTEM</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADMIN_CUSTOMER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN_CUSTOMER.Designer.cs">
+      <DependentUpon>ADMIN_CUSTOMER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN_EMAIL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN_EMAIL.Designer.cs">
+      <DependentUpon>ADMIN_EMAIL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN_EMP_ACC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN_EMP_ACC.Designer.cs">
+      <DependentUpon>ADMIN_EMP_ACC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN_EMP_DETAILS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN_EMP_DETAILS.Designer.cs">
+      <DependentUpon>ADMIN_EMP_DETAILS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN_EMP_UPDATE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN_EMP_UPDATE.Designer.cs">
+      <DependentUpon>ADMIN_EMP_UPDATE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN_HISTORY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN_HISTORY.Designer.cs">
+      <DependentUpon>ADMIN_HISTORY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN_PORTAL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN_PORTAL.Designer.cs">
+      <DependentUpon>ADMIN_PORTAL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN_STOCKS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN_STOCKS.Designer.cs">
+      <DependentUpon>ADMIN_STOCKS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUSTOMER PORTAL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CUSTOMER PORTAL.Designer.cs">
+      <DependentUpon>CUSTOMER PORTAL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EMPLOYEE_CHEQUE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EMPLOYEE_CHEQUE.Designer.cs">
+      <DependentUpon>EMPLOYEE_CHEQUE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EMPLOYEE_INBOX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EMPLOYEE_INBOX.Designer.cs">
+      <DependentUpon>EMPLOYEE_INBOX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EMPLOYEE_LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EMPLOYEE_LOGIN.Designer.cs">
+      <DependentUpon>EMPLOYEE_LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EMPLOYEE_PORTAL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EMPLOYEE_PORTAL.Designer.cs">
+      <DependentUpon>EMPLOYEE_PORTAL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EMPLOYEE_VIEW_ATTENDANCE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EMPLOYEE_VIEW_ATTENDANCE.Designer.cs">
+      <DependentUpon>EMPLOYEE_VIEW_ATTENDANCE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EMP_STOCKS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EMP_STOCKS.Designer.cs">
+      <DependentUpon>EMP_STOCKS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN_GRAPH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN_GRAPH.Designer.cs">
+      <DependentUpon>ADMIN_GRAPH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EMPLOYEE_GRAPH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EMPLOYEE_GRAPH.Designer.cs">
+      <DependentUpon>EMPLOYEE_GRAPH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LOGIN_ADMIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN_ADMIN.Designer.cs">
+      <DependentUpon>LOGIN_ADMIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MEMBERSHIP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MEMBERSHIP.Designer.cs">
+      <DependentUpon>MEMBERSHIP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PURCHASE_HISTORY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PURCHASE_HISTORY.Designer.cs">
+      <DependentUpon>PURCHASE_HISTORY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="Settings1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings1.settings</DependentUpon>
+    </Compile>
+    <Compile Include="SIGNUP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SIGNUP.Designer.cs">
+      <DependentUpon>SIGNUP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login_customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login_customer.Designer.cs">
+      <DependentUpon>login_customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STORE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STORE.Designer.cs">
+      <DependentUpon>STORE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SURVEILLANCE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SURVEILLANCE.Designer.cs">
+      <DependentUpon>SURVEILLANCE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UPDATE_ACC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UPDATE_ACC.Designer.cs">
+      <DependentUpon>UPDATE_ACC.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ADMIN_CUSTOMER.resx">
+      <DependentUpon>ADMIN_CUSTOMER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN_EMAIL.resx">
+      <DependentUpon>ADMIN_EMAIL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN_EMP_ACC.resx">
+      <DependentUpon>ADMIN_EMP_ACC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN_EMP_DETAILS.resx">
+      <DependentUpon>ADMIN_EMP_DETAILS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN_EMP_UPDATE.resx">
+      <DependentUpon>ADMIN_EMP_UPDATE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN_HISTORY.resx">
+      <DependentUpon>ADMIN_HISTORY.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN_PORTAL.resx">
+      <DependentUpon>ADMIN_PORTAL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN_STOCKS.resx">
+      <DependentUpon>ADMIN_STOCKS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUSTOMER PORTAL.resx">
+      <DependentUpon>CUSTOMER PORTAL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EMPLOYEE_CHEQUE.resx">
+      <DependentUpon>EMPLOYEE_CHEQUE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EMPLOYEE_INBOX.resx">
+      <DependentUpon>EMPLOYEE_INBOX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EMPLOYEE_LOGIN.resx">
+      <DependentUpon>EMPLOYEE_LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EMPLOYEE_PORTAL.resx">
+      <DependentUpon>EMPLOYEE_PORTAL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EMPLOYEE_VIEW_ATTENDANCE.resx">
+      <DependentUpon>EMPLOYEE_VIEW_ATTENDANCE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EMP_STOCKS.resx">
+      <DependentUpon>EMP_STOCKS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN_GRAPH.resx">
+      <DependentUpon>ADMIN_GRAPH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EMPLOYEE_GRAPH.resx">
+      <DependentUpon>EMPLOYEE_GRAPH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGIN_ADMIN.resx">
+      <DependentUpon>LOGIN_ADMIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login_customer.resx">
+      <DependentUpon>login_customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MEMBERSHIP.resx">
+      <DependentUpon>MEMBERSHIP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PURCHASE_HISTORY.resx">
+      <DependentUpon>PURCHASE_HISTORY.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SIGNUP.resx">
+      <DependentUpon>SIGNUP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STORE.resx">
+      <DependentUpon>STORE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SURVEILLANCE.resx">
+      <DependentUpon>SURVEILLANCE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UPDATE_ACC.resx">
+      <DependentUpon>UPDATE_ACC.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Settings1.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings1.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main-qimg-2b21b9dd05c757fe30231fac65b504dd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\605-6057241_dont-spotlight-the-killers-facebook-no-profile-picture.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

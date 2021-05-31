@@ -1,0 +1,181 @@
+C:\Users\sanar\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csprojAssemblyReference.cache
+C:\Users\sanar\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.Properties.Resources.resources
+C:\Users\sanar\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csproj.GenerateResource.cache
+C:\Users\sanar\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\sanar\Desktop\SUPERMARKET MANAGEMENT SYSTEM\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe.config
+C:\Users\sanar\Desktop\SUPERMARKET MANAGEMENT SYSTEM\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe
+C:\Users\sanar\Desktop\SUPERMARKET MANAGEMENT SYSTEM\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.pdb
+C:\Users\sanar\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.Form1.resources
+C:\Users\sanar\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe
+C:\Users\sanar\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.pdb
+C:\Users\sanar\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.STORE.resources
+C:\Users\sanar\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.login_customer.resources
+C:\Users\sanar\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.SIGNUP.resources
+C:\Users\Ayaan Danish\Desktop\SUPERMARKET MANAGEMENT SYSTEM\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe.config
+C:\Users\Ayaan Danish\Desktop\SUPERMARKET MANAGEMENT SYSTEM\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe
+C:\Users\Ayaan Danish\Desktop\SUPERMARKET MANAGEMENT SYSTEM\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.pdb
+C:\Users\Ayaan Danish\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csprojAssemblyReference.cache
+C:\Users\Ayaan Danish\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.login_customer.resources
+C:\Users\Ayaan Danish\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.SIGNUP.resources
+C:\Users\Ayaan Danish\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.STORE.resources
+C:\Users\Ayaan Danish\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.Form1.resources
+C:\Users\Ayaan Danish\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.Properties.Resources.resources
+C:\Users\Ayaan Danish\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csproj.GenerateResource.cache
+C:\Users\Ayaan Danish\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Ayaan Danish\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe
+C:\Users\Ayaan Danish\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.pdb
+C:\Users\sanar\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.CUSTOMER_PORTAL.resources
+C:\Users\sanar\Desktop\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.UPDATE_ACC.resources
+C:\Users\CSC\Downloads\SUPERMARKET MANAGEMENT SYSTEM (1)\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csprojAssemblyReference.cache
+C:\Users\CSC\Downloads\SUPERMARKET MANAGEMENT SYSTEM (1)\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.CUSTOMER_PORTAL.resources
+C:\Users\CSC\Downloads\SUPERMARKET MANAGEMENT SYSTEM (1)\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.login_customer.resources
+C:\Users\CSC\Downloads\SUPERMARKET MANAGEMENT SYSTEM (1)\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.SIGNUP.resources
+C:\Users\CSC\Downloads\SUPERMARKET MANAGEMENT SYSTEM (1)\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.STORE.resources
+C:\Users\CSC\Downloads\SUPERMARKET MANAGEMENT SYSTEM (1)\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.Form1.resources
+C:\Users\CSC\Downloads\SUPERMARKET MANAGEMENT SYSTEM (1)\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.Properties.Resources.resources
+C:\Users\CSC\Downloads\SUPERMARKET MANAGEMENT SYSTEM (1)\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.UPDATE_ACC.resources
+C:\Users\CSC\Downloads\SUPERMARKET MANAGEMENT SYSTEM (1)\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csproj.GenerateResource.cache
+C:\Users\CSC\Downloads\SUPERMARKET MANAGEMENT SYSTEM (1)\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\CSC\Downloads\SUPERMARKET MANAGEMENT SYSTEM (1)\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe
+C:\Users\CSC\Downloads\SUPERMARKET MANAGEMENT SYSTEM (1)\SUPERMARKET MANAGEMENT SYSTEM\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.pdb
+C:\Users\CSC\Downloads\SUPERMARKET MANAGEMENT SYSTEM (1)\SUPERMARKET MANAGEMENT SYSTEM\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe.config
+C:\Users\CSC\Downloads\SUPERMARKET MANAGEMENT SYSTEM (1)\SUPERMARKET MANAGEMENT SYSTEM\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe
+C:\Users\CSC\Downloads\SUPERMARKET MANAGEMENT SYSTEM (1)\SUPERMARKET MANAGEMENT SYSTEM\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.pdb
+C:\Users\sanar\Desktop\oop project\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe.config
+C:\Users\sanar\Desktop\oop project\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe
+C:\Users\sanar\Desktop\oop project\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.pdb
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csprojAssemblyReference.cache
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.CUSTOMER_PORTAL.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.login_customer.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.SIGNUP.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.STORE.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.Form1.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.Properties.Resources.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.UPDATE_ACC.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csproj.GenerateResource.cache
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.pdb
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.PURCHASE_HISTORY.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csprojAssemblyReference.cache
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.pdb
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe.config
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.pdb
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.CUSTOMER_PORTAL.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.login_customer.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.MEMBERSHIP.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.PURCHASE_HISTORY.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.SIGNUP.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.STORE.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.Form1.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.Properties.Resources.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.UPDATE_ACC.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csproj.GenerateResource.cache
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.MEMBERSHIP.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_CUSTOMER.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_PORTAL.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.LOGIN_ADMIN.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_HISTORY.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.SURVEILLANCE.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_EMP_ACC.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_EMP_DETAILS.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_EMP_UPDATE.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_CUSTOMER.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_EMP_ACC.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_EMP_DETAILS.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_EMP_UPDATE.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_HISTORY.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_PORTAL.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.LOGIN_ADMIN.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.SURVEILLANCE.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_LOGIN.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_PORTAL.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_VIEW_ATTENDANCE.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_EMAIL.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_INBOX.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_CHEQUE.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_EMAIL.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_CHEQUE.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_INBOX.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_LOGIN.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_PORTAL.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_VIEW_ATTENDANCE.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_STOCKS.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMP_STOCKS.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_STOCKS.resources
+C:\Users\sanar\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMP_STOCKS.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe.config
+E:\Users\CSC\Downloads\oop project (3)\oop project\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe
+E:\Users\CSC\Downloads\oop project (3)\oop project\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.pdb
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csprojAssemblyReference.cache
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_CUSTOMER.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_EMAIL.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_EMP_ACC.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_EMP_DETAILS.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_EMP_UPDATE.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_HISTORY.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_PORTAL.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_STOCKS.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.CUSTOMER_PORTAL.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_CHEQUE.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_INBOX.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_LOGIN.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_PORTAL.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_VIEW_ATTENDANCE.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMP_STOCKS.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.LOGIN_ADMIN.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.login_customer.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.MEMBERSHIP.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.PURCHASE_HISTORY.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.SIGNUP.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.STORE.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.Form1.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.Properties.Resources.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.SURVEILLANCE.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.UPDATE_ACC.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csproj.GenerateResource.cache
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csproj.CoreCompileInputs.cache
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.pdb
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_GRAPH.resources
+E:\Users\CSC\Downloads\oop project (3)\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_GRAPH.resources
+C:\Users\Hp\Desktop\oop project\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe.config
+C:\Users\Hp\Desktop\oop project\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe
+C:\Users\Hp\Desktop\oop project\bin\Debug\SUPERMARKET MANAGEMENT SYSTEM.pdb
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_CUSTOMER.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_EMAIL.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_EMP_ACC.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_EMP_DETAILS.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_EMP_UPDATE.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_HISTORY.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_PORTAL.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_STOCKS.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.CUSTOMER_PORTAL.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_CHEQUE.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_INBOX.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_LOGIN.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_PORTAL.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_VIEW_ATTENDANCE.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMP_STOCKS.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_GRAPH.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_GRAPH.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.LOGIN_ADMIN.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.login_customer.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.MEMBERSHIP.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.PURCHASE_HISTORY.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.SIGNUP.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.STORE.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.Form1.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.Properties.Resources.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.SURVEILLANCE.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.UPDATE_ACC.resources
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.exe
+C:\Users\Hp\Desktop\oop project\obj\Debug\SUPERMARKET MANAGEMENT SYSTEM.pdb
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.ADMIN_GRAPH.resources
+C:\Users\Ayaan Danish\Desktop\Ayaan's Docs\oop project\obj\Debug\SUPERMARKET_MANAGEMENT_SYSTEM.EMPLOYEE_GRAPH.resources

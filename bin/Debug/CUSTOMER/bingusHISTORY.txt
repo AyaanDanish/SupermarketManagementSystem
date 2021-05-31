@@ -1,0 +1,296 @@
+----------------------------------------------
+13/05/2021 11:39:59 PM
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+TOMATOES         $7.50
+TOMATOES         $7.50
+TOMATOES         $7.50
+TOMATOES         $7.50
+FISH             $9.55
+FISH             $9.55
+
+
+TOTAL BILL
+$94.1
+
+POINTS EARNED
+18
+----------------------------------------------
+13/05/2021 11:40:06 PM
+CHICKEN          $10.00
+CHICKEN          $10.00
+CHICKEN          $10.00
+CHICKEN          $10.00
+CHICKEN          $10.00
+CHICKEN          $10.00
+LAMB             $13.45
+LAMB             $13.45
+LAMB             $13.45
+LAMB             $13.45
+LAMB             $13.45
+LAMB             $13.45
+FISH             $9.55
+FISH             $9.55
+FISH             $9.55
+FISH             $9.55
+
+
+TOTAL BILL
+$178.9
+
+POINTS EARNED
+35
+----------------------------------------------
+13/05/2021 11:40:12 PM
+BEEF             $12.50
+BEEF             $12.50
+BEEF             $12.50
+BEEF             $12.50
+BEEF             $12.50
+BEEF             $12.50
+BEEF             $12.50
+BEEF             $12.50
+BEEF             $12.50
+LAMB             $13.45
+LAMB             $13.45
+LAMB             $13.45
+LAMB             $13.45
+
+
+TOTAL BILL
+$166.3
+
+POINTS EARNED
+33
+----------------------------------------------
+13/05/2021 11:40:18 PM
+APPLES           $3.55
+TOMATOES         $7.50
+TOMATOES         $7.50
+APPLES           $3.55
+APPLES           $3.55
+MANGOES          $3.55
+MANGOES          $3.55
+MANGOES          $3.55
+APPLES           $3.55
+TOMATOES         $7.50
+POTATOES         $5.00
+BEEF             $12.50
+CHICKEN          $10.00
+LAMB             $13.45
+LAMB             $13.45
+FISH             $9.55
+
+
+TOTAL BILL
+$111.3
+
+POINTS EARNED
+22
+----------------------------------------------
+13/05/2021 11:40:25 PM
+CHICKEN          $10.00
+CHICKEN          $10.00
+LAMB             $13.45
+LAMB             $13.45
+LAMB             $13.45
+
+
+YOU AVAILED 40 % DISCOUNT
+TOTAL BILL
+$36.21
+
+POINTS EARNED
+12
+----------------------------------------------
+13/05/2021 11:40:37 PM
+BEEF             $12.50
+BEEF             $12.50
+CHICKEN          $10.00
+CHICKEN          $10.00
+CHICKEN          $10.00
+TOMATOES         $7.50
+TOMATOES         $7.50
+POTATOES         $5.00
+
+
+YOU AVAILED 20 % DISCOUNT
+TOTAL BILL
+$60
+
+POINTS EARNED
+15
+----------------------------------------------
+5/16/2021 11:37:13 PM
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+
+
+TOTAL BILL
+$25
+
+POINTS EARNED
+5
+----------------------------------------------
+5/17/2021 12:41:36 AM
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+
+
+TOTAL BILL
+$55
+
+POINTS EARNED
+11
+----------------------------------------------
+5/17/2021 12:49:27 AM
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+
+
+TOTAL BILL
+$30
+
+POINTS EARNED
+6
+----------------------------------------------
+5/17/2021 12:51:16 AM
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+
+
+TOTAL BILL
+$15
+
+POINTS EARNED
+3
+----------------------------------------------
+5/17/2021 12:55:30 AM
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+
+
+TOTAL BILL
+$50
+
+POINTS EARNED
+10
+----------------------------------------------
+5/17/2021 12:58:12 AM
+
+
+
+TOTAL BILL
+$0
+
+POINTS EARNED
+0
+----------------------------------------------
+5/19/2021 11:09:01 PM
+POTATOES         $5.00
+TOMATOES         $7.50
+
+
+TOTAL$12.5
+
+POINTS EARNED
+2
+----------------------------------------------
+5/24/2021 12:40:19 AM
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+POTATOES         $5.00
+TOMATOES         $7.50
+TOMATOES         $7.50
+TOMATOES         $7.50
+TOMATOES         $7.50
+
+
+TOTAL$50
+
+POINTS EARNED
+10
+----------------------------------------------
+5/25/2021 8:17:38 PM
+POTATOES         $5.00
+POTATOES         $5.00
+TOMATOES         $7.50
+APPLES           $3.55
+MANGOES          $3.55
+FISH             $9.55
+LAPTOP           $500.0
+SPEAKERS         $50.00
+
+
+TOTAL$584.15
+
+POINTS EARNED
+116
+----------------------------------------------
+5/25/2021 8:18:14 PM
+POTATOES         $5.00
+APPLES           $3.55
+MANGOES          $3.55
+FISH             $9.55
+POTATOES         $5.00
+CHICKEN          $10.00
+LAPTOP           $500.0
+SPEAKERS         $50.00
+
+
+TOTAL BILL
+$586.65
+
+POINTS EARNED
+117
+----------------------------------------------
+5/25/2021 8:42:44 PM
+MANGOES          $3.55
+APPLES           $3.55
+TOMATOES         $7.50
+POTATOES         $5.00
+BEEF             $12.50
+CHICKEN          $10.00
+LAMB             $13.45
+FISH             $9.55
+
+
+YOU AVAILED 40 % DISCOUNT
+TOTAL BILL
+$39.06
+
+POINTS EARNED
+13

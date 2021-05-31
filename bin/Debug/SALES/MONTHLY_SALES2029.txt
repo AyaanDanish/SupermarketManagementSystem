@@ -1,0 +1,11 @@
+jan,300
+feb,200
+march,200
+april,100
+may,800
+june,700
+aug,600
+sep,500
+oct,400
+nov,300
+dec,200

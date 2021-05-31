@@ -1,0 +1,14 @@
+jan,100
+feb,200
+mar,300
+apr,150
+may,200
+jun,400
+jul,100
+aug,500
+sep,300
+oct,100
+nov,450
+dec,300
+
+
